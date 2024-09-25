@@ -45,7 +45,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Read our docs please oh
+            Sayson first comment
           </a>
         </div>
       </main>
