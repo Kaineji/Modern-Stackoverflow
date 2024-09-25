@@ -45,7 +45,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Sayson first comment
+            Sayson Front-End Developer w/ 3 months exeperience in Data Science
           </a>
         </div>
       </main>
