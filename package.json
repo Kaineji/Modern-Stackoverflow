@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "ldrs": "^1.0.2",
     "my-appyy": "file:",
     "next": "14.2.13",
     "react": "^18",
